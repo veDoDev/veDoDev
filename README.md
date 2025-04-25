@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @veDoDev
 - 👀 I’m interested in AI/ML, Mathematics
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA & Django Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He / Him
